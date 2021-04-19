@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">438646607397-6t6v1rh82b49i08ugpfqvjq20a8p3b5m.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">438646607397</string>
+    <string name="google_api_key" translatable="false">AIzaSyB5BCup1IP5-QcF2ROgLlR15ylFOMm2P5A</string>
+    <string name="google_app_id" translatable="false">1:438646607397:android:f4568fb76c4a02a84af9cc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB5BCup1IP5-QcF2ROgLlR15ylFOMm2P5A</string>
+    <string name="google_storage_bucket" translatable="false">safe-boxx.appspot.com</string>
+    <string name="project_id" translatable="false">safe-boxx</string>
+</resources>

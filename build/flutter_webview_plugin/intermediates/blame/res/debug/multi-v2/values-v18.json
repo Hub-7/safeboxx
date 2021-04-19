@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/hemry/AndroidStudioProjects/safe boxx/Safe boxx/build/flutter_webview_plugin/intermediates/res/merged/debug/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/hemry/.gradle/caches/transforms-2/files-2.1/b8ca6b8718b26fd6ae874403422c459b/appcompat-1.1.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/hemry/AndroidStudioProjects/safe boxx/Safe boxx/build/flutter_webview_plugin/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/hemry/.gradle/caches/transforms-2/files-2.1/b8ca6b8718b26fd6ae874403422c459b/appcompat-1.1.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

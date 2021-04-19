@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/hemry/AndroidStudioProjects/safe boxx/Safe boxx/build/camera/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/hemry/.gradle/caches/transforms-2/files-2.1/02f5852dccc14c4d22bdf5ab5e5174a2/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/hemry/AndroidStudioProjects/safe boxx/Safe boxx/build/camera/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/hemry/.gradle/caches/transforms-2/files-2.1/02f5852dccc14c4d22bdf5ab5e5174a2/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/hemry/AndroidStudioProjects/safe boxx/Safe boxx/build/camera/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/hemry/.gradle/caches/transforms-2/files-2.1/02f5852dccc14c4d22bdf5ab5e5174a2/core-1.1.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/hemry/AndroidStudioProjects/safe boxx/Safe boxx/build/camera/intermediates/res/merged/debug/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/hemry/.gradle/caches/transforms-2/files-2.1/02f5852dccc14c4d22bdf5ab5e5174a2/core-1.1.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/hemry/AndroidStudioProjects/safe boxx/Safe boxx/build/camera/intermediates/res/merged/debug/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/hemry/.gradle/caches/transforms-2/files-2.1/02f5852dccc14c4d22bdf5ab5e5174a2/core-1.1.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]

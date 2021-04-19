@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438646607397",
+    "project_id": "safe-boxx",
+    "storage_bucket": "safe-boxx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438646607397:android:f4568fb76c4a02a84af9cc",
+        "android_client_info": {
+          "package_name": "com.safe.safeboxx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438646607397-6t6v1rh82b49i08ugpfqvjq20a8p3b5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5BCup1IP5-QcF2ROgLlR15ylFOMm2P5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438646607397-6t6v1rh82b49i08ugpfqvjq20a8p3b5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6582e7c-1bff-47ff-85d9-a613f399eb09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/example/cryptomarket/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/example/cryptomarket/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings_aar.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../settings_aar.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/1024x500.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/Crypto Wallet Description.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/Crypto Wallet Description.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/Gifs/Drawer.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/Gifs/Login_Trim.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/Gifs/home_Trim.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/Gifs/shimmer.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/Preview.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/app icon 512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/appIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/appIcon.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/crypto tarde and wallet Images/banner590x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/crypto tarde and wallet Images/bannerImage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/crypto tarde and wallet Images/cryptoImage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/crypto tarde and wallet Images/cryptoImage1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/crypto tarde and wallet Images/cryptoImage2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/crypto tarde and wallet Images/icon80x80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/images.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/resize-1603965561100753525503thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/resize-1603965592204561287304thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/resize-1603965609123746484111thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/resize-160396562381264062112thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/resize-160396578251323498903thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/resize-160396580464878256704thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../app Details/resize-160396581914838660911thumb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner/AppDelegate.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Runner/Runner-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/api/apiProvider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/api/apiProvider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/auth/authenticationScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/auth/authenticationScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/auth/forgotPasswordScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/auth/forgotPasswordScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/auth/selectAuthScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/auth/selectAuthScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/auth/signInScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/auth/signInScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/auth/signUpScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/auth/signUpScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/constance/constance.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/constance/constance.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/constance/global.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/constance/global.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/constance/routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/constance/routes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/constance/themes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/constance/themes.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/graphDetail/OHLCVGraph.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/graphDetail/OHLCVGraph.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/graphDetail/QuickPercentChangeBar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/graphDetail/QuickPercentChangeBar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/model/PairDetailInfoModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/model/PairDetailInfoModel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/model/PairTransactionDetailModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/model/PairTransactionDetailModel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/model/listingsModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/model/listingsModel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/model/liveCryptoNewsModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/model/liveCryptoNewsModel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/model/liveTradingPairModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/model/liveTradingPairModel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/chagePIN/changepin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/chagePIN/changepin.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/deposite/depositeCurrency.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/deposite/depositeCurrency.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/drawer/drawer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/drawer/drawer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/home/homeScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/home/homeScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/introduction/introductionScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/introduction/introductionScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/introduction/swipeIndtroduction.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/introduction/swipeIndtroduction.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/muitisig/multisig.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/muitisig/multisig.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/muitisig/walletCoinDetail.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/muitisig/walletCoinDetail.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/myWallet/wallet.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/myWallet/wallet.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/news/latestCryptoNews.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/news/latestCryptoNews.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/news/newsDescription.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/news/newsDescription.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/tradingPair/pairDescription.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/tradingPair/pairDescription.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/tradingPair/tradingPair.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/tradingPair/tradingPair.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/tradingPair/tradingPairLiveChart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/tradingPair/tradingPairLiveChart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/underGroundSlider/cryptoCoinDetailSlider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/underGroundSlider/cryptoCoinDetailSlider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/underGroundSlider/notificationSlider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/underGroundSlider/notificationSlider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/underGroundSlider/setSchedule.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/underGroundSlider/setSchedule.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/underGroundSlider/transferMoney.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/underGroundSlider/transferMoney.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/userProfile/userProfile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/userProfile/userProfile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/modules/withdraw/withdrawCurrency.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/modules/withdraw/withdrawCurrency.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/splash/SplashScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/splash/SplashScreen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../lib/test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/widget_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../../test/widget_test.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1neuoILy7JHtN0T4irfcWGYakrc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6582e7c-1bff-47ff-85d9-a613f399eb09" name="Default Changelist" comment="" />
+      <created>1611763050757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611763050757</updated>
+    </task>
+    <servers />
+  </component>
+</project>
